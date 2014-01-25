@@ -3,7 +3,7 @@ root = exports ? this
 
 Plot = () ->
   width = 900
-  height = 600
+  height = 650
   data = []
   points = null
   margin = {top: 20, right: 20, bottom: 20, left: 20}
